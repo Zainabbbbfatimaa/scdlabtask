@@ -1,2 +1,4 @@
 This is my first GitHub Lab 14 project.
 I am learning GitHub repository management.
+
+This line was added from my local computer using GitHub Desktop.
